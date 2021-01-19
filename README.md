@@ -1,5 +1,5 @@
 # Model description
-We have improved the already known SIR model given in the course by adding an exposed and a death compartment. We also changed some parameters according to population and data for Sweden. However, further parameters and investigation is needed to make it accurate but this is a start. The model can be found in the file named SIR_model_new_new.ipynb. 
+We have improved the already known SIR model given in the course by adding a death compartment (in addition to the exposed compartment added in the lecture). We also changed some parameters according to population and data for Sweden. However, further parameters and investigation is needed to make it accurate but this is a start. The model can be found in the file named SIR_model_new_new.ipynb. 
 
 # Final Project Description
 
