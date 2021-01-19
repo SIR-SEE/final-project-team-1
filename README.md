@@ -1,3 +1,6 @@
+# Model description
+We have improved the already known SIR model given in the course by adding an exposed and a death compartment. We also changed some parameters according to population and data for Sweden. However, further parameters and investigation is needed to make it accurate but this is a start. The model can be found in the file named SIR_model_new_new.ipynb. 
+
 # Final Project Description
 
 The Corona virus pandemic was the biggest event globally this year. Many people got sick with minor symptoms, some ended up in the intensive care units (ICUs), and some portion of those infected died. It affected every aspect of everyone’s life: national borders closed, flights were suspended, schools closed, working from home was instituted, social distancing measures were put in place, in some countries face masks were required, and washing your hands often became a necessity.
